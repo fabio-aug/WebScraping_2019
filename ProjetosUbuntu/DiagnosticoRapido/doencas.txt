@@ -1,0 +1,10 @@
+sarampo
+hiv
+rubeola
+dengue
+aids
+alcalose
+anemia
+avc
+depressao
+gripe

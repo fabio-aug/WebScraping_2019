@@ -1,0 +1,40 @@
+avc
+O AVC, acidente vascular cerebral ou também conhecido como derrame cerebral, ocorre quando há um entupimento ou o rompimento dos vasos que levam sangue ao cérebro provocando a paralisia da área cerebral que ficou sem circulação sanguínea adequada. O AVC também é chamado de Acidente Vascular Encefálico (AVE). (11, 12)
+Diminuição ou perda súbita da força na face, braço ou perna de um lado do corpo;Alteração súbita da sensibilidade com sensação de formigamento na face, braço ou perna de um lado do corpo;Perda súbita de visão num olho ou nos dois olhos;Alteração aguda da fala, incluindo dificuldade para articular, expressar ou para compreender a linguagem;Dor de cabeça súbita e intensa sem causa aparente;Instabilidade, vertigem súbita intensa e desequilíbrio associado a náuseas ou vômitos.;
+
+depressao
+A depressão (CID 10 – F33) é uma doença psiquiátrica crônica que gera tristeza profunda, perda de interesse, ausência de ânimo e oscilações de humor. Muitas vezes é confundida com ansiedade e pode levar a pensamentos suicidas. Assim, é essencial diagnosticar a doença e iniciar acompanhamento médico.
+Apatia;Falta de motivação;Medos que antes não existiam;Dificuldade de concentração;Perda ou aumento de apetite;Alto grau de pessimismo;Indecisão;Insegurança;Insônia;Falta de vontade de fazer atividades antes prazerosas;Sensação de vazio;Irritabilidade;Raciocínio mais lento;Esquecimento;Ansiedade;Angústia;Vontade de morrer;
+
+dengue
+ A dengue é uma doença febril aguda causada por um vírus, sendo um dos principais problemas de saúde pública no mundo. É transmitida pelo mosquito Aedes aegypti, que se desenvolve em áreas tropicais e subtropicais. Atualmente, a vacina é a melhor forma de prevenção da dengue. Segundo o boletim epidemiológico do Ministério da Saúde, divulgado em janeiro de 2018, foram registrados menos casos prováveis de dengue em 2017, 252.054 casos contra 1.483.623 em 2016.
+Febre alta com início súbito (entre 39º a 40º C);Forte dor de cabeça;Dor atrás dos olhos, que piora com o movimento dos mesmos;Manchas e erupções na pele, pelo corpo todo, normalmente com coceiras;Extremo cansaço;Moleza e dor no corpo;Muitas dores nos ossos e articulações;Náuseas e vômitos;Tontura;Perda de apetite e paladar.;
+
+anemia
+Anemia é definida pela Organização Mundial de Saúde (OMS) como a condição na qual o conteúdo de hemoglobina no sangue está abaixo do normal, levando à diminuição da capacidade de transporte de oxigênio. A hemoglobina é a substância que nosso corpo utiliza para transportar o oxigênio. Ela é carregada em nosso sangue pelas hemácias ou glóbulos vermelhos. Há várias causas de anemia, porém, a anemia causada por deficiência de ferro, denominada Anemia Ferropriva, é muito mais comum que as demais (estima-se que mais de 90% das anemias sejam causadas por carência de Ferro). O ferro é um nutriente essencial para a vida e atua principalmente na síntese (fabricação) das células vermelhas do sangue e no transporte do oxigênio para todas as células do corpo.
+Fadiga generalizada;Anorexia (falta de apetite);Palidez de pele e mucosas (parte interna do olho, gengivas), nas anemias hemolíticas os olhos podem ficar amarelados;Menor disposição para o trabalho;Dificuldade de aprendizagem nas crianças;Falta de ar;Tonturas;Dor no peito;Mãos e pés frios;Dor de cabeça;Apatia (crianças muito "paradas");Vontade de comer substâncias não alimentares, como gelo ou arroz cru;Formigamento nas mãos e pés.;
+
+aids
+Aids (sigla para acquired immunodeficiency syndrome - síndrome da imunodeficiência adquirida, em português) é uma doença crônica causada pelo vírus HIV, que danifica o sistema imunológico e interfere na habilidade do organismo lutar contra outras infecções (tuberculose, pneumocistose, neurotoxoplasmose, entre outras). A Aids também facilita a ocorrência de alguns tipos de câncer, como sarcoma de Kaposi e linfoma, além de provocar perda de peso e diarreia. Apesar de ainda não existir cura para a doença, atualmente há tratamentos retrovirais capazes de aumentar a expectativa de vida dos soropositivos.
+Fraqueza;Febre;Emagrecimento;Diarreia prolongada sem causa aparente.;
+
+rubeola
+Rubéola é uma infecção contagiosa causada por vírus e caracterizada por erupções vermelhas na pele. A doença é também conhecida como sarampo alemão.
+Febre leve;Dor de cabeça;Congestão nasal;Inflamação nos olhos (avermelhados);Surgimento de nódulos na região da nuca e atrás das orelhas;Desconforto geral e sensação de mal-estar constante;Dor muscular e nas articulações;
+
+hiv
+HIV é a sigla em inglês do vírus da imunodeficiência humana (human immunodeficiency virus), que é o causador da aids. O HIV é uma infecção sexualmente transmissível (DST), que também pode ser contraída pelo contato com o sangue infectado e de forma vertical, ou seja, a mulher que é portadora do vírus HIV o transmite para o filho durante a gravidez.
+Febre;Mal-estar;Manchas vermelhas pelo corpo;Aumento dos linfonodos, ou ínguas;Dores de cabeça;Dor nos músculos;Erupção cutânea;Calafrio;Dor de garganta;Úlceras orais ou úlceras genitais;Dor nas articulações;Sudorese noturna;Diarreia;Tosse;
+
+sarampo
+O sarampo é uma doença contagiosa que aparece com febre e manchas no corpo, e o tratamento é feito para atenuar estes sintomas. A doença é causada por um vírus chamado Morbillivirus, e é uma das principais responsáveis pela mortalidade infantil em países sub-desenvolvidos.
+Febre;Tosse persistente;conjuntivite;coriza;fotofobia;
+
+alcalose
+Alcalose é o estado em que os fluídos do corpo ficam muito alcalinos, ou seja, com pH superior a 7,45. Ocorre principalmente quando há excesso de bases (compostos alcalinos) no sangue. É um estado contrário à acidose, em que os fluidos corporais se tornam mais ácidos. Estar com alcalose ou acidose reflete no equilíbrio do pH do corpo, o que pode causar desequilíbrios no corpo.
+Náuseas;Sensação de torpor;Espasmos musculares prolongados;Tremor nas mãos;Contração muscular.;
+
+gripe
+A gripe, tamém conhecida como influenza, é uma infecção do sistema respiratório cuja principal complicação é a pneumonia. A gripe inicia-se com febre alta, em geral acima de 38ºC, seguida de dor muscular, dor de garganta, dor de cabeça e tosse seca.
+Febre acima de 38ºC;Músculos doloridos, especialmente nas costas, braços e pernas;Calafrios e suores;Dor de cabeça;Tosse seca e persistente;Fadiga e fraqueza;Congestão nasal;Dor de garganta.;
+

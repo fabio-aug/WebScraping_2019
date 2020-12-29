@@ -1,0 +1,16 @@
+all you need to know...
+'''
+    print('Nomes:\n')
+    for nome_doenca in list_doenca:
+        print(nome_doenca + '\n')
+    print('\n-------------------\n')
+
+    print('Descricoes:\n')
+    for descricao in list_descricao:
+        print(descricao + '\n')
+    print('\n-------------------\n')
+
+    print('Sintomas:\n')
+    for sintomas in list_sintomas:
+        print(sintomas + '\n')
+'''
